@@ -136,6 +136,20 @@ patterns = [
     {"label": "SKILL", "pattern": "SPSS (Statistical Analysis)"},
     {"label": "SKILL", "pattern": "Stata (Statistical Analysis)"},
     {"label": "SKILL", "pattern": "Julia (Scientific Computing)"},
+    
+    # Frontend langauges 
+    {"label": "SKILL", "pattern": "HTML"},
+    {"label": "SKILL", "pattern": "CSS"},
+    {"label": "SKILL", "pattern": "JavaScript"},
+    {"label": "SKILL", "pattern": "TypeScript"},
+    {"label": "SKILL", "pattern": "CoffeeScript"},
+    {"label": "SKILL", "pattern": "Elm"},
+    {"label": "SKILL", "pattern": "PureScript"},
+    {"label": "SKILL", "pattern": "ReasonML"},
+    {"label": "SKILL", "pattern": "ClojureScript"},
+    {"label": "SKILL", "pattern": "Dart"},
+    {"label": "SKILL", "pattern": "WebAssembly"},
+
 
     # Healthcare
     {"label": "SKILL", "pattern": "Patient Care"},
