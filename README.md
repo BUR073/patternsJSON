@@ -22,6 +22,19 @@ Job Matching Algorithms
 Automated Skill Extraction from Text
 AI-driven Career Recommendation Systems
 
+## Instillation
+
+#### To install this module directly from GitHub, use the following command: 
+```pip install git+https://github.com/BUR073/patternsJSON.git``` 
+
+#### Installing from a Specific Branch/ If you need to install from a specific branch (e.g., dev), use:
+```pip install git+https://github.com/BUR073/patternsJSON.git@devManual```
+
+#### InstallationAlternatively, you can clone the repository and install it manually:
+```git clone git+https://github.com/BUR073/patternsJSON.git``` \
+```cd yourrepository``` \
+```pip install . ```
+
 ## Contribution
 
 Contributions are welcome! If you want to add new skills or suggest improvements, feel free to submit a pull request.
