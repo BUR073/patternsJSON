@@ -134,7 +134,7 @@ patterns = [
     {"label": "SKILL", "pattern": "Photography"},
     {"label": "SKILL", "pattern": "Sculpture"},
 
-    // History
+    # History
     {"label": "SKILL", "pattern": "African History"},
     {"label": "SKILL", "pattern": "American History"},
     {"label": "SKILL", "pattern": "Ancient History"},
@@ -153,7 +153,7 @@ patterns = [
     {"label": "SKILL", "pattern": "Technological History"},
     {"label": "SKILL", "pattern": "World History"},
 
-    // Languages & Literature
+    # Languages & Literature
     {"label": "SKILL", "pattern": "Linguistics"},
     {"label": "SKILL", "pattern": "English Studies"},
     {"label": "SKILL", "pattern": "Comparative Literature"},
@@ -166,7 +166,7 @@ patterns = [
     {"label": "SKILL", "pattern": "American Literature"},
     {"label": "SKILL", "pattern": "British Literature"},
 
-    // Law
+    # Law
     {"label": "SKILL", "pattern": "Administrative Law"},
     {"label": "SKILL", "pattern": "Civil Law"},
     {"label": "SKILL", "pattern": "Common Law"},
@@ -180,7 +180,7 @@ patterns = [
     {"label": "SKILL", "pattern": "Property Law"},
     {"label": "SKILL", "pattern": "Tax Law"},
 
-    // Philosophy
+    # Philosophy
     {"label": "SKILL", "pattern": "Aesthetics"},
     {"label": "SKILL", "pattern": "Epistemology"},
     {"label": "SKILL", "pattern": "Ethics"},
@@ -192,14 +192,14 @@ patterns = [
     {"label": "SKILL", "pattern": "Continental Philosophy"},
     {"label": "SKILL", "pattern": "Eastern Philosophy"},
 
-    // Religious Studies & Theology
+    # Religious Studies & Theology
     {"label": "SKILL", "pattern": "Religious History"},
     {"label": "SKILL", "pattern": "Theology"},
     {"label": "SKILL", "pattern": "Biblical Studies"},
     {"label": "SKILL", "pattern": "Canon Law"},
     {"label": "SKILL", "pattern": "Church History"},
 
-    // Social Science (Expanded)
+    # Social Science (Expanded)
     {"label": "SKILL", "pattern": "Anthropology"},
     {"label": "SKILL", "pattern": "Archaeology"},
     {"label": "SKILL", "pattern": "Economics"},
@@ -209,19 +209,19 @@ patterns = [
     {"label": "SKILL", "pattern": "Psychology"},
     {"label": "SKILL", "pattern": "Sociology"},
 
-    // Natural Science (Expanded)
+    # Natural Science (Expanded)
     {"label": "SKILL", "pattern": "Biology"},
     {"label": "SKILL", "pattern": "Chemistry"},
     {"label": "SKILL", "pattern": "Earth Science"},
     {"label": "SKILL", "pattern": "Astronomy"},
     {"label": "SKILL", "pattern": "Physics"},
 
-    // Formal Science
+    # Formal Science
     {"label": "SKILL", "pattern": "Computer Science"},
     {"label": "SKILL", "pattern": "Mathematics"},
     {"label": "SKILL", "pattern": "Statistics"},
 
-    // Applied Science (Expanded)
+    # Applied Science (Expanded)
     {"label": "SKILL", "pattern": "Agriculture"},
     {"label": "SKILL", "pattern": "Architecture"},
     {"label": "SKILL", "pattern": "Design"},
